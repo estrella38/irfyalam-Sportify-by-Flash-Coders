@@ -20,12 +20,18 @@
             <p>Needs updating.</p>
         </div>
  
-        <div id="tab2" class="Community connect">
+     <div id="tab2" class="Community connect">
             <p>Tab #2 content goes here!</p>
             <p> Needs updating.</p>
         </div>
 
- <div class="tab-content"> 
+     <div class="tab-content"> 
+        <div id="tab3" class="Gallery">
+            <p>Tab #3 content goes here!</p>
+            <p>Needs updating.</p>
+        </div>
+
+     <div class="tab-content"> 
         <div id="tab3" class=" Contact us">
             <p>Tab #3 content goes here!</p>
             <p>Needs updating.</p>
